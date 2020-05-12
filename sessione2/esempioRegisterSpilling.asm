@@ -1,3 +1,6 @@
+# • Supponiamo di poter utilizzare solo i registri $t0 e $t1
+# • Dobbiamo calcolare il prodotto di due variabili che stanno nel segmento 
+#   dati e i cui indirizzi sono identificati dalle label x e y
  	.data
  x:	.word 3
  y:	.word 4
