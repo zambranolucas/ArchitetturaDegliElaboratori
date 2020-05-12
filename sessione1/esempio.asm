@@ -1,6 +1,6 @@
 	.data
-string: .asciiz "Ciao"
-	.align 2	# direttiva allineamento, lascia spazio libero per allineamento
+string: .asciiz "Ciao"	# Remember little-endian byte order!
+	.align 2	# Aligns next element to multiple of 2^n
 A:	.space 8
 
 	.text
