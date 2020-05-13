@@ -1,4 +1,5 @@
 # Lettura e scrittura da memoria (2)
+#
 # Si scriva il codice Assembly che effettui:
 # 	A[c-1] = c*(B[A[c]] + c)/A[2*c-1]
 # Inizializzazione dei registri indirizzi: 
