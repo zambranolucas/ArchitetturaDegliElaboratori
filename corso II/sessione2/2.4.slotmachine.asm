@@ -1,4 +1,5 @@
 # Semplice slotmachine con syscall
+#
 # Utilizzando le syscall rese disponibili dall’emulatore MARS implementare un programma che:
 # Richieda all’utente attraverso una finestra di dialogo l’inserimento di un numero intero NUM
 # • Estragga un numero casuale R nel range [-NUM,NUM], (il seed del generatore di numeri casuali 
