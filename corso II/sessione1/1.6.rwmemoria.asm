@@ -1,4 +1,5 @@
 # Lettura e scrittura da memoria (1)
+#
 # Si scriva il codice Assembly che effettui:
 #    A[99] = 5 + B[i] + C
 # Inizializzazione dei registri indirizzi:
