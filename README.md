@@ -1,1 +1,1 @@
-# ArchitetturaDegliElaboratori
+# Architettura degli elaboratori
